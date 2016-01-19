@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindApi", "FindApi\FindApi.csproj", "{1B7D6372-5F76-4ED0-96F4-636502E30CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindApi.Tests", "FindApi.Tests\FindApi.Tests.csproj", "{937F111C-9579-4F84-A437-DCDE0A47DC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7D6372-5F76-4ED0-96F4-636502E30CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7D6372-5F76-4ED0-96F4-636502E30CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7D6372-5F76-4ED0-96F4-636502E30CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7D6372-5F76-4ED0-96F4-636502E30CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937F111C-9579-4F84-A437-DCDE0A47DC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937F111C-9579-4F84-A437-DCDE0A47DC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937F111C-9579-4F84-A437-DCDE0A47DC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937F111C-9579-4F84-A437-DCDE0A47DC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tetrix:8080/tfs/kommunikation
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FindApi.Tests\\FindApi.Tests.csproj
+		SccProjectName1 = FindApi.Tests
+		SccLocalPath1 = FindApi.Tests
+		SccProjectUniqueName2 = FindApi\\FindApi.csproj
+		SccProjectName2 = FindApi
+		SccLocalPath2 = FindApi
+	EndGlobalSection
+EndGlobal
